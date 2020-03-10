@@ -1,0 +1,10 @@
+﻿  源.c
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(129): warning C4101: “flag”: 未引用的局部变量
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(167): warning C4101: “j”: 未引用的局部变量
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(167): warning C4101: “i”: 未引用的局部变量
+d:\算法\作业2\floyd算法求最短距离\源码\floyd\floyd\源.c(126): warning C4716: “dfs”: 必须返回一个值
+  floyd.vcxproj -> D:\算法\作业2\Floyd算法求最短距离\源码\floyd\Debug\floyd.exe
